@@ -6,9 +6,6 @@ apt-get upgrade -y
 apt-get install apache2 -y
 apt-get install unzip -y
 
-echo "Entrando em tmp"
-
-
 echo "Baixando e copiando os arquivos da aplicacao"
 
 cd /tmp
